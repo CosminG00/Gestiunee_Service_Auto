@@ -1,0 +1,15 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\Owner-PC\Desktop\ConsoleApplication4\ConsoleApplication4.cpp(661,43): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner-PC\Desktop\ConsoleApplication4\ConsoleApplication4.cpp(1287,24): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner-PC\Desktop\ConsoleApplication4\ConsoleApplication4.cpp(1603,16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owner-PC\Desktop\ConsoleApplication4\ConsoleApplication4.cpp(2034,33): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner-PC\Desktop\ConsoleApplication4\ConsoleApplication4.cpp(2064,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Owner-PC\Desktop\ConsoleApplication4\ConsoleApplication4.cpp(2612,44): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner-PC\Desktop\ConsoleApplication4\ConsoleApplication4.cpp(3382,31): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner-PC\Desktop\ConsoleApplication4\ConsoleApplication4.cpp(4045,16): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Owner-PC\Desktop\ConsoleApplication4\ConsoleApplication4.cpp(4615,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owner-PC\Desktop\ConsoleApplication4\ConsoleApplication4.cpp(4745,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Owner-PC\Desktop\ConsoleApplication4\ConsoleApplication4.cpp(4449,10): warning C4930: 'Factura f30(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\Owner-PC\Desktop\ConsoleApplication4\ConsoleApplication4.cpp(4338,10): warning C4930: 'Angajat a30(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\Owner-PC\Desktop\ConsoleApplication4\ConsoleApplication4.cpp(4397,13): warning C4930: 'Programari p30(void)': prototyped function not called (was a variable definition intended?)
+  ConsoleApplication4.vcxproj -> C:\Users\Owner-PC\Desktop\ConsoleApplication4\Debug\ConsoleApplication4.exe

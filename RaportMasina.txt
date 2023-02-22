@@ -1,0 +1,6 @@
+
+Masina BMW are 300 cai putere  cu 5 piese lipsa  , cu 3 fiecare accident costand: 
+Pretul accidentului 1 este 600
+Pretul accidentului 2 este 1200
+Pretul accidentului 3 este 1800
+Iar sasiul numeric este: 2111111111

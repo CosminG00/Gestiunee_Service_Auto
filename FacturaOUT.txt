@@ -1,0 +1,45 @@
+
+---------------------------------------------
+ADRESA: Pitesti
+DENUMIRE SERVICIU: ReparatieAuto
+SUMA COLECTATA: 1000
+NR ORDINE: 30
+TVA: 0.21
+NR SERVICII: 3
+PRETUL SERVICIULUI 1 ESTE 100
+PRETUL SERVICIULUI 2 ESTE 200
+PRETUL SERVICIULUI 3 ESTE 300
+---------------------------------------------
+---------------------------------------------
+ADRESA: Bucuresti
+DENUMIRE SERVICIU: ReparatieAuto
+SUMA COLECTATA: 1000
+NR ORDINE: 30
+TVA: 0.21
+NR SERVICII: 3
+PRETUL SERVICIULUI 1 ESTE 500
+PRETUL SERVICIULUI 2 ESTE 600
+PRETUL SERVICIULUI 3 ESTE 700
+---------------------------------------------
+---------------------------------------------
+ADRESA: Ploiesti
+DENUMIRE SERVICIU: LaMititelu
+SUMA COLECTATA: 2000
+NR ORDINE: 40
+TVA: 0.21
+NR SERVICII: 3
+PRETUL SERVICIULUI 1 ESTE 700
+PRETUL SERVICIULUI 2 ESTE 800
+PRETUL SERVICIULUI 3 ESTE 900
+---------------------------------------------
+---------------------------------------------
+ADRESA: Albota
+DENUMIRE SERVICIU: SoftArabesc
+SUMA COLECTATA: 5000
+NR ORDINE: 0
+TVA: 0.21
+NR SERVICII: 3
+PRETUL SERVICIULUI 1 ESTE 3000
+PRETUL SERVICIULUI 2 ESTE 6000
+PRETUL SERVICIULUI 3 ESTE 9000
+---------------------------------------------

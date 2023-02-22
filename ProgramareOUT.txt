@@ -1,0 +1,36 @@
+
+---------------------------------------------
+ZIUA: Marti
+NUME CLIENT: Albert
+NR PROBLEME: 3
+DURATA REZOLVARII PROBLEMELOR: 1	2	3	
+REDUCERE: 1
+ORA: 12
+---------------------------------------------
+
+---------------------------------------------
+ZIUA: Joi
+NUME CLIENT: Mihai
+NR PROBLEME: 3
+DURATA REZOLVARII PROBLEMELOR: 3	3	3	
+REDUCERE: 1
+ORA: 12
+---------------------------------------------
+
+---------------------------------------------
+ZIUA: Duminica
+NUME CLIENT: Cosmin
+NR PROBLEME: 3
+DURATA REZOLVARII PROBLEMELOR: 7	7	7	
+REDUCERE: 1
+ORA: 12
+---------------------------------------------
+
+---------------------------------------------
+ZIUA: 
+NUME CLIENT: 
+NR PROBLEME: 0
+DURATA REZOLVARII PROBLEMELOR: 
+REDUCERE: 0
+ORA: 0
+---------------------------------------------
